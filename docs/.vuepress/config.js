@@ -48,16 +48,16 @@ module.exports = {
       }
     ],
     sidebar: [
-      '/intro.md',
+      '/intro',
       {
         title: 'javascript',
         collapsable: true,
-        children: ['/javascript/js',]
+        children: ['/javascript/js']
       },
       {
         title: 'react',
         collapsable: true,
-        children: ['/react/jsx',]
+        children: ['/react/jsx']
       }
 
     ]
