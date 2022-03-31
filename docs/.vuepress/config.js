@@ -55,7 +55,7 @@ module.exports = {
         children: ['/javascript/js']
       },
       {
-        title: 'react',
+        title: 'reacte',
         collapsable: true,
         children: ['/react/jsx']
       }
