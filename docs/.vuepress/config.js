@@ -106,7 +106,7 @@ module.exports = {
         },
       },
     ],
-     ["sitemap", { hostname: "https://lee-yeonji.github.io/TIL" }],
+    ["sitemap", { hostname: "https://lee-yeonji.github.io/" }],
       "@vuepress/plugin-back-to-top",
   ]
 }
