@@ -29,7 +29,21 @@ module.exports = {
     ],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }], 
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }, ],
-    
+    [
+      "script",
+      {
+        async: true,
+        src: "https://www.googletagmanager.com/gtag/js?id=G-LJ9WYBP7M9",
+        // GA에서 발급받은 코드
+      },
+    ],
+    [
+      "script",
+      {},
+      [
+        "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-LJ9WYBP7M9');",
+      ],
+    ],
   ],
 
   /**
