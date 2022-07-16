@@ -76,7 +76,7 @@ module.exports = {
       {
         title: 'UI&UX',
         collapsable: true,
-        children: ['/UI&UX/UI&UX기초']
+        
       },
       {
         title: 'frontend_html',
