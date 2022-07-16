@@ -5,11 +5,11 @@ tagline:
 actionText: Quick Start →
 actionLink: /intro
 features:
-  - title: 타이틀
-    details: Feature 1 Description
-  - title: Feature 2 Title
-    details: Feature 2 Description
-  - title: Feature 3 Title
-    details: Feature 3 Description
+  - title: UI/UX
+    details: 기획, 디자인(figma etc)
+  - title: front-end
+    details: html,css,js etc
+  - title: 기타
+    details: ux 관련 아티클 etc
 footer: Made by  with ❤️
 ---

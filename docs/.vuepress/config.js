@@ -74,14 +74,24 @@ module.exports = {
     sidebar: [
       '/intro',
       {
-        title: 'javascript',
+        title: 'UI&UX',
         collapsable: true,
-        children: ['/javascript/js']
+        children: ['/UI&UX/UI&UX기초']
       },
       {
-        title: 'react!',
+        title: 'frontend_basic',
         collapsable: true,
-        children: ['/react/jsx']
+        children: ['/frontend_basic/html']
+      },
+      {
+        title: 'frontend_basic',
+        collapsable: true,
+        children: ['/frontend_basic/css']
+      },
+      {
+        title: 'frontend_basic',
+        collapsable: true,
+        children: ['/frontend_basic/js']
       }
 
     ]
