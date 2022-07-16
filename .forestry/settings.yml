@@ -5,15 +5,15 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: docs/javascript
-  label: javascript
+  path: docs/UI&UX
+  label: UI&UX
   create: documents
   match: "*.md"
   templates:
   - post
 - type: directory
-  path: docs/react
-  label: react
+  path: docs/frontend_basic
+  label: frontend_basic
   create: documents
   match: "*.md"
   templates:
