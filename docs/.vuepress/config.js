@@ -81,16 +81,8 @@ module.exports = {
       {
         title: 'frontend_basic',
         collapsable: true,
-        children: ['/frontend_basic/html']
-      },
-      {
-        title: 'frontend_basic',
-        collapsable: true,
-        children: ['/frontend_basic/css']
-      },
-      {
-        title: 'frontend_basic',
-        collapsable: true,
+        children: ['/frontend_basic/html'],
+        children: ['/frontend_basic/css'],
         children: ['/frontend_basic/js']
       }
 
