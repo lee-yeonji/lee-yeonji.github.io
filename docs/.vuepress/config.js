@@ -76,7 +76,10 @@ module.exports = {
       {
         title: 'UI&UX',
         collapsable: true,
-        
+        children: [
+          '/UI&UX/UI&UX기초',
+          '/UI&UX/UX 개념'
+        ],
       },
       {
         title: 'frontend_html',
