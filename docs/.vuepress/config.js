@@ -79,13 +79,20 @@ module.exports = {
         children: ['/UI&UX/UI&UX기초']
       },
       {
-        title: 'frontend_basic',
+        title: 'frontend_html',
         collapsable: true,
         children: ['/frontend_basic/html'],
+      },
+      {
+        title: 'frontend_css',
+        collapsable: true,
         children: ['/frontend_basic/css'],
-        children: ['/frontend_basic/js']
+      },
+      {
+        title: 'frontend_js',
+        collapsable: true,
+        children: ['/frontend_basic/js'],
       }
-
     ]
   },
 
