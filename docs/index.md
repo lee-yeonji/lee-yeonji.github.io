@@ -2,7 +2,7 @@
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline:
-actionText: Quick Start →
+actionText: Start!
 actionLink: /intro
 features:
   - title: TIL

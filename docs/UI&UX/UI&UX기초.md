@@ -1,6 +1,5 @@
 ---
-title: 'UI/UX 페이지 '
-
+title: 'UI/UX 페이지'
 ---
 ## UX 기획
 
