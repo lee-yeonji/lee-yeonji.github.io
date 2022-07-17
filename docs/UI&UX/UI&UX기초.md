@@ -1,5 +1,5 @@
 ---
-title: 'UI/UX 문서를 작성합니다. '
+title: 'UI/UX 페이지'
 
 ---
 ## UX 기획
