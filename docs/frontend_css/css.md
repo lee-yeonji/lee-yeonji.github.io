@@ -1,5 +1,5 @@
 ---
-title: 'css 문서를 작성합니다. '
+title: 'css 페이지 '
 
 ---
 ## css

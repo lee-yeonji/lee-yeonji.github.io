@@ -1,5 +1,5 @@
 ---
-title: 'html 문서를 작성합니다. '
+title: 'html 페이지'
 
 ---
 ## html

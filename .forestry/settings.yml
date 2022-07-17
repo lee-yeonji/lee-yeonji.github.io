@@ -12,8 +12,22 @@ sections:
   templates:
   - post
 - type: directory
-  path: docs/frontend_basic
-  label: frontend_basic
+  path: docs/frontend_html
+  label: HTML
+  create: documents
+  match: "*.md"
+  templates:
+  - post
+- type: directory
+  path: docs/frontend_css
+  label: CSS
+  create: documents
+  match: "*.md"
+  templates:
+  - post
+- type: directory
+  path: docs/frontend_js
+  label: JAVASCRIPT
   create: documents
   match: "*.md"
   templates:

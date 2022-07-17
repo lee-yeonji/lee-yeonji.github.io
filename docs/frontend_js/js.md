@@ -1,5 +1,5 @@
 ---
-title: 'javascript 문서를 작성합니다. '
+title: 'javascript 페이지'
 
 ---
 ## javascript 
